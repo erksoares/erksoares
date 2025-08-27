@@ -1,4 +1,4 @@
-👨🏻‍💻 Erick Felipe Barbosa Soares
+# 👨🏻‍💻 Erick Felipe Barbosa Soares
 
 Automation & AI @Nubank
 
