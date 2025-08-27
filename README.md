@@ -1,4 +1,5 @@
-# Erick Felipe Barbosa Soares 👋
+👨🏻‍💻 Erick Felipe Barbosa Soares 
+Automation & AI @Nubank
 
 🎓 Studying a Bachelor's Degree in Computer Science (4th/9th semester) at Instituto Presbiteriano Mackenzie  
 💻 Passionate about technology, coding, and problem-solving  
